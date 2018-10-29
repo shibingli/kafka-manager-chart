@@ -37,8 +37,8 @@ kafka:
     #   name: "default"
     #   # MANDATORY VALUE
     #   # Uri at which Kafka Zookeeper's can be contacted.
-    zkHosts: "kafka-zookeeper:2181"
-    kafkaVersion: "0.10.0"
+    #   zkHosts: "kafka-zookeeper:2181"
+    #   kafkaVersion: "0.10.0"
 
 # Kafka-manager zookeeper configuration.
 # Internal to kafka-manager.
