@@ -19,7 +19,7 @@ ingress:
   enabled: true
   # Used to create an Ingress record.
   hosts:
-    - kafka-manager.local
+    - kfm.eriloan.net
   annotations: {}
 
 # Managed kafka cluster
