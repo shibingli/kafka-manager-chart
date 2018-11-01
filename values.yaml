@@ -48,7 +48,6 @@ kafkaManager:
   # change the zhHosts variable to point to the zk instances.
   useKafkaZookeeper: true
   zkHosts: "kafka-zookeeper:2181"
-
 resources: {}
   # If you do want to specify resources for kafka-manager, uncomment the following
   # lines, adjust them as necessary, and remove the curly braces after 'resources:'.
